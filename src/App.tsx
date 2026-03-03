@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 
-const TEAM = ['Alex', 'Jordan', 'Sam', 'Taylor', 'Morgan'];
+const TEAM = ['Vinay Raghavendran', 'Rahul Aggarwal', 'Lokesh Sharma', 'Tech Team'];
 const STATUSES = ['New', 'In Progress', 'Waiting', 'Resolved'];
 const PRIORITIES = ['Critical', 'High', 'Medium', 'Low'];
 
