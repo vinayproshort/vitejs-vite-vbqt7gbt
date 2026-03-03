@@ -1,8 +1,7 @@
 // @ts-nocheck
 import { useState, useEffect, useRef } from 'react';
-
 const TEAM = ['Vinay Raghavendran', 'Rahul Aggarwal', 'Lokesh Sharma', 'Tech Team'];
-const STATUSES = ['New', 'In Progress', 'Waiting', 'Resolved'];
+const STATUSES = ['New', 'In Progress', 'Pending - Release', 'Pending - Roadmap', 'Resolved'];
 const PRIORITIES = ['Critical', 'High', 'Medium', 'Low'];
 
 const BRAND = {
